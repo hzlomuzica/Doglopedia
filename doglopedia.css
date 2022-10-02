@@ -37,4 +37,22 @@ a {
     text-decoration: underline dotted;
 }
 
+.bichon {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image {
+    background-image: url("bichon.jpg");
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 1px solid black;
+    border-bottom-width: 3px;
+    margin: 0 auto;
+}
+
+
+
 
