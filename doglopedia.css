@@ -1,0 +1,13 @@
+body {
+    margin: auto;
+    width: 600px;
+}
+
+#page-header {
+    text-align: center;
+    color: #c49a64;
+    background-color: #fbe8cc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
